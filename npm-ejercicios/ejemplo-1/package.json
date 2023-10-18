@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-1",
+  "version": "1.0.0",
+  "description": "ejemplo de uso de npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Dolores Parra",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
