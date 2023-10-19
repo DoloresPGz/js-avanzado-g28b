@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo-2",
+  "version": "1.0.0",
+  "description": "Ejemplo de scripts de terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "npx nodemon index.js"
+  },
+  "keywords": [
+    "npm",
+    "nodemon"
+  ],
+  "author": "Dolores Parra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
